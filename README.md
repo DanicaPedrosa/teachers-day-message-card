@@ -1,3 +1,6 @@
+ 💌 View the Digital Card
+ [💌 Click here to view the actual Digital Card](https://danicapedrosa.github.io/teachers-day-message-card/)
+ 
  🎉 Teachers’ Day Message Card
 
 A personalized digital Teachers’ Day message card created using HTML, CSS, and JavaScript to express appreciation and gratitude to a teacher.
